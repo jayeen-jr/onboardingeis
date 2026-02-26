@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Public Info Page</title>
+</head>
+<body>
+  <h1>Welcome to my public HTML page</h1>
+  <p>This page will be used by Copilot as a knowledge source.</p>
+
+  <h2>PDFs</h2>
+  <ul>
+    <li><a href="YOUR_PUBLIC_PDF_LINK" target="_blank">PDF 1</a></li>
+    <li><a href="YOUR_PUBLIC_PDF_LINK" target="_blank">PDF 2</a></li>
+  </ul>
+</body>
+</html>
